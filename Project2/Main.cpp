@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
 	Engine engine;
 	engine.initialize();
 
