@@ -1,6 +1,6 @@
 # Memtris
 Meme tetris (C++ project for school). Tetris that displays memes to distract player.
-Made in hurry so I am not satisfied with it. And C++ is not ma language. But it works.
+Made in hurry so I am not satisfied with it. And C++ is not my language. But it works.
 
 ## Technologies I used
 
